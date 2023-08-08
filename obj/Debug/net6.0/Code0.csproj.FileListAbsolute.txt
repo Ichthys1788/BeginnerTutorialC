@@ -1,0 +1,60 @@
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\bin\Debug\net6.0\Code0.exe
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\bin\Debug\net6.0\Code0.deps.json
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\bin\Debug\net6.0\Code0.runtimeconfig.json
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\bin\Debug\net6.0\Code0.dll
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\bin\Debug\net6.0\Code0.pdb
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\Code0.csproj.AssemblyReference.cache
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\Code0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\Code0.AssemblyInfoInputs.cache
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\Code0.AssemblyInfo.cs
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\Code0.csproj.CoreCompileInputs.cache
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\Code0.dll
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\refint\Code0.dll
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\Code0.pdb
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\Code0.genruntimeconfig.cache
+C:\Users\David Trusty\source\repos\C code\OOP\Code0\obj\Debug\net6.0\ref\Code0.dll
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\bin\Debug\net6.0\Code0.exe
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\bin\Debug\net6.0\Code0.deps.json
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\bin\Debug\net6.0\Code0.runtimeconfig.json
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\bin\Debug\net6.0\Code0.dll
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\bin\Debug\net6.0\Code0.pdb
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\Code0.csproj.AssemblyReference.cache
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\Code0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\Code0.AssemblyInfoInputs.cache
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\Code0.AssemblyInfo.cs
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\Code0.csproj.CoreCompileInputs.cache
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\Code0.dll
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\refint\Code0.dll
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\Code0.pdb
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\Code0.genruntimeconfig.cache
+C:\Users\David Trusty\Documents\GitHub\BeginnerTutorialC\obj\Debug\net6.0\ref\Code0.dll
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\Code0.csproj.AssemblyReference.cache
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\Code0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\Code0.AssemblyInfoInputs.cache
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\Code0.AssemblyInfo.cs
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\Code0.csproj.CoreCompileInputs.cache
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\Code0.dll
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\refint\Code0.dll
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\Code0.pdb
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\bin\Debug\net6.0\Code0.exe
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\bin\Debug\net6.0\Code0.deps.json
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\bin\Debug\net6.0\Code0.runtimeconfig.json
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\bin\Debug\net6.0\Code0.dll
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\bin\Debug\net6.0\Code0.pdb
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\Code0.genruntimeconfig.cache
+C:\Users\David Trusty\source\repos\C code\BeginnerTutorialC\obj\Debug\net6.0\ref\Code0.dll
+C:\Users\David Trusty\source\repos\C code\Stuff\bin\Debug\net6.0\Code0.exe
+C:\Users\David Trusty\source\repos\C code\Stuff\bin\Debug\net6.0\Code0.deps.json
+C:\Users\David Trusty\source\repos\C code\Stuff\bin\Debug\net6.0\Code0.runtimeconfig.json
+C:\Users\David Trusty\source\repos\C code\Stuff\bin\Debug\net6.0\Code0.dll
+C:\Users\David Trusty\source\repos\C code\Stuff\bin\Debug\net6.0\Code0.pdb
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\Code0.csproj.AssemblyReference.cache
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\Code0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\Code0.AssemblyInfoInputs.cache
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\Code0.AssemblyInfo.cs
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\Code0.csproj.CoreCompileInputs.cache
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\Code0.dll
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\refint\Code0.dll
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\Code0.pdb
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\Code0.genruntimeconfig.cache
+C:\Users\David Trusty\source\repos\C code\Stuff\obj\Debug\net6.0\ref\Code0.dll
